@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "chemi fonti1";
+    src: url("./JacquesFrancoisShadow-Regular.ttf");
+}
+@font-face {
+    font-family: "chemi fonti2";
+    src: url("./OriginalSurfer-Regular.ttf");
+}
+@font-face {
+    font-family: "chemi fonti3";
+    src: url("./Play-Regular.ttf");
+}
+h3 {
+    font-family: "chemi fonti1";
+}
+#p1 {
+    font-family: "Chemi fonti2";
+}
+#p2 {
+    font-family: "chemi fonti3";
+}
